@@ -1,0 +1,108 @@
+[submodule "macro_peg"]
+	path = macro_peg
+	url = git@github.com:kmizu/macro_peg.git
+	branch = master
+[submodule "pegex"]
+	path = pegex
+	url = git@github.com:kmizu/pegex.git
+	branch = master
+[submodule "jsonda"]
+	path = jsonda
+	url = git@github.com:kmizu/jsonda.git
+	branch = master
+[submodule "scomb"]
+	path = scomb
+	url = git@github.com:kmizu/scomb.git
+	branch = master
+[submodule "klassic"]
+	path = klassic
+	url = git@github.com:klassic/klassic.git
+	branch = master
+[submodule "onion"]
+	path = onion
+	url = git@github.com:onion-lang/onion.git
+	branch = master
+[submodule "mregex"]
+	path = mregex
+	url = git@github.com:kmizu/mregex.git
+	branch = master
+[submodule "minis"]
+	path = minis
+	url = git@github.com:kmizu/minis.git
+	branch = master
+[submodule "imo"]
+	path = imo
+	url = git@github.com:kmizu/imo.git
+	branch = master
+[submodule "jsons"]
+	path = jsons
+	url = git@github.com:kmizu/jsons.git
+	branch = master
+[submodule "simplell1"]
+	path = simplell1
+	url = git@github.com:kmizu/simplell1.git
+	branch = master
+[submodule "scala-rewriting"]
+	path = scala-rewriting
+	url = git@github.com:kmizu/scala-rewriting.git
+	branch = master
+[submodule "scaruby"]
+	path = scaruby
+	url = git@github.com:scaruby/scaruby.git
+	branch = master
+[submodule "a2r"]
+	path = a2r
+	url = git@github.com:kmizu/a2r.git
+	branch = master
+[submodule "usparse"]
+	path = usparse
+	url = git@github.com:kmizu/usparse.git
+	branch = master
+[submodule "dotty-tree"]
+	path = dotty-tree
+	url = git@github.com:kmizu/dotty-tree.git
+	branch = master
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:kmizu/calculator.git
+	branch = master
+[submodule "polymorphic_record"]
+	path = polymorphic_record
+	url = git@github.com:kmizu/polymorphic_record.git
+	branch = master
+[submodule "abstract_generics"]
+	path = abstract_generics
+	url = git@github.com:kmizu/abstract_generics.git
+	branch = master
+[submodule "nson"]
+	path = nson
+	url = git@github.com:kmizu/nson.git
+	branch = master
+[submodule "tlambda"]
+	path = tlambda
+	url = git@github.com:kmizu/tlambda.git
+	branch = master
+[submodule "macro_peg_combinators"]
+	path = macro_peg_combinators
+	url = git@github.com:kmizu/macro_peg_combinators.git
+	branch = master
+[submodule "toys"]
+	path = toys
+	url = git@github.com:kmizu/toys.git
+	branch = master
+[submodule "xbuilder"]
+	path = xbuilder
+	url = git@github.com:kmizu/xbuilder.git
+	branch = master
+[submodule "llwan"]
+	path = llwan
+	url = git@github.com:kmizu/llwan.git
+	branch = master
+[submodule "regex2peg"]
+	path = regex2peg
+	url = git@github.com:kmizu/regex2peg.git
+	branch = master
+[submodule "ruby_scala"]
+	path = ruby_scala
+	url = git@github.com:kmizu/ruby_scala.git
+	branch = master
